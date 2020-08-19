@@ -1,0 +1,4 @@
+Nº de contentores a coletar neste trajeto: 1
+Custo do trajeto: 26
+Nós processados: 463
+Tempo de processamento: 0.0231
